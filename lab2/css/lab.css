@@ -1,21 +1,16 @@
+
+p{
+font-family: "comic sans";
+color: black;
+text-indent: 30px;
+margin-left: 15px;
+}
+
 #content {
-  background-color: #808088;
+  background-color: #808080;
   width: 1300px;
   min-height: 300px;
   padding: 15px;
   margin: 15px;
   font-size: 20px;
-}
-
-img#prius{
-  display: block;
-  float: right;
-  width: 40%;
-}
-
-p{
-font-family: "comic sans";
-color: white;
-text-indent: 30px;
-margin-left: 15px;
 }
