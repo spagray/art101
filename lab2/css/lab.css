@@ -12,3 +12,10 @@ img#prius{
   float: right;
   width: 40%;
 }
+
+p{
+font-family: "comic sans";
+color: white;
+text-indent: 30px;
+margin-left: 15px;
+}
