@@ -1,0 +1,21 @@
+
+p{
+  font-family: "Comic Sans MS";
+  color: black;
+  text-indent: 30px;
+  margin-left: 15px;
+}
+
+#content{
+  background-color: fuchsia;
+  width: 500px;
+  border: solid 1px #444444;
+  padding: 10px;
+  margin: 15px;
+  min-height: 300px;
+}
+
+#my-portrait {
+    width: 300px;
+    height: 400px
+}
